@@ -1,8 +1,8 @@
 <?php
-    $host = "localhost";
-    $user = "root";
-    $clave = "";
-    $bd = "laragon_pos";
+    $host = "https://ventas.enriquenielor.ieslossauces.es/";
+    $user = "userENLDBVentas";
+    $clave = "672qJ&btbWrKmtd%";
+    $bd = "DBENLVentas";
     $conexion = mysqli_connect($host,$user,$clave,$bd);
     if (mysqli_connect_errno()){
         echo "No se pudo conectar a la base de datos";
