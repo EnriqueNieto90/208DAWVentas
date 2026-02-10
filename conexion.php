@@ -1,5 +1,5 @@
 <?php
-    $host = "https://ventas.enriquenielor.ieslossauces.es/";
+    $host = "localhost";
     $user = "userENLDBVentas";
     $clave = "672qJ&btbWrKmtd%";
     $bd = "DBENLVentas";
